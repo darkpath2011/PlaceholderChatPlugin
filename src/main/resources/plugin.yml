@@ -1,0 +1,4 @@
+name: PlaceholderChatPlugin
+version: '1.0-SNAPSHOT'
+main: cn.darkpath2011.placeholderChatPlugin.PlaceholderChatPlugin
+authors: [ DarkPath2011 ]
